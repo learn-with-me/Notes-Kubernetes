@@ -5,5 +5,5 @@
 * [Setup](setup.md)
 * [Tips](tips.md)
   * [ssh](tips/ssh.md)
-* [dev setup](dev-setup.md)
+  * [dev setup](dev-setup.md)
 
