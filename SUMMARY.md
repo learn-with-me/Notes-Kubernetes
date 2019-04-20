@@ -1,10 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [Pods](pods.md)
 * [Setup](setup.md)
+* [Namespace](namespace.md)
+* [Pods](pods.md)
 * [Tips](tips.md)
   * [ssh](tips/ssh.md)
   * [dev setup](dev-setup.md)
-* [Namespace](namespace.md)
+* [Replica Sets & Deployments](replica-sets-and-deployments.md)
 
