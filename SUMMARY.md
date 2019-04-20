@@ -8,4 +8,6 @@
 * [Tips](tips.md)
   * [ssh](tips/ssh.md)
   * [dev setup](dev-setup.md)
+* [Steps to setup infra](steps-to-setup-infra.md)
+* [Kubernetes Architecture](kubernetes-architecture.md)
 
