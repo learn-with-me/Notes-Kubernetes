@@ -37,5 +37,11 @@ You are expected to already know about:
   * Production ready
   * Solid future
 
+## Reference Quality Learning
+
+```
+https://www.udemy.com/kubernetes-certified-administrator
+```
+
 
 
