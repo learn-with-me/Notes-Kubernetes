@@ -4,11 +4,14 @@ Kubernetes has a single control plane on top of all the node-pools it works with
 
 You may be running several projects in the same cluster and may need to create partitions between each or some ofthe projects. Namespaces are very useful in this scenario.
 
-`default` is the default kubernetes namespace. There is a utility `kubens` that lists all the available namespace in the current configuration. 
+`default` is the default kubernetes namespace. There is a utility `kubens` that lists all the available namespace in the current configuration.
 
-##### kubens
+##### kubectx and kubens
 
 ```
+kubectx - helps you switch between clusters back and forth
+kubens  - helps you switch between namespaces smoothly
+
 https://github.com/ahmetb/kubectx
 ```
 

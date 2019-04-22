@@ -23,7 +23,11 @@ A unit of deployment in terms of kubernetes is a pod. Typically you run one cont
 * **M**etadata
 * **S**pec
 
-#### 
+#### References
+
+```
+https://kubernetes.io/docs/concepts/workloads/pods/pod/
+```
 
 
 

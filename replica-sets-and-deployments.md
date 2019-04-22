@@ -49,5 +49,13 @@ This is all good for internal service discovery. For external service discovery,
 
 ###### Load balancing
 
+### References
+
+```
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/
+https://coreos.com/kubernetes/docs/latest/services.html
+```
+
 
 
