@@ -6,16 +6,7 @@ You may be running several projects in the same cluster and may need to create p
 
 `default` is the default kubernetes namespace. There is a utility `kubens` that lists all the available namespace in the current configuration.
 
-##### kubectx and kubens
-
-```
-kubectx - helps you switch between clusters back and forth
-kubens  - helps you switch between namespaces smoothly
-
-https://github.com/ahmetb/kubectx
-```
-
-#### References
+##### References
 
 ```
 https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces
