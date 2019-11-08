@@ -13,7 +13,6 @@ $ kubectl apply -n kube-system -f \
 
 3. (Optional) Create an nginx deployment:
 $ kubectl apply -f https://raw.githubusercontent.com/kubernetes/website/master/content/en/examples/application/nginx-app.yaml
-
 ```
 
 #### Configuration after initial setup
@@ -62,7 +61,24 @@ $ kubectl config use-context <context-name>    # Switch cluster
 
 ---
 
-### Install Kubeadm
+### Minikube Cheatsheet
+
+Basic
+
+```
+$ minikube version
+$ minikube start
+$ minikube stop
+$ minikube delete
+$ minikube status
+```
+
+Add a sample application
+
+```
+Create a deployment
+$ kubectl run kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1 --port=8080
+```
 
 
 
