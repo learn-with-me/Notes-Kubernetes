@@ -10,9 +10,13 @@ What do we need? A model that:
 
 ##### Replication Controller
 
-Being deprecated. Controls replication of pod in case of failing pod, pod crashes or need for scaling up or down. Using ReplicaSet instead is more popular and supported by the community.
+Being deprecated. Controls replication of pod in case of failing pod, pod crashes or need for scaling up or down. Ensures a certain number of pods are running at any time.
+
+Using ReplicaSet instead is more popular and supported by the community.
 
 ##### ReplicaSet over Replication Controller
+
+Ensures a certain number of pods are running at any time. ReplicaSet and pods are associated with labels and selectors.
 
 With Replication Controller you'll need to rely on rolling-update program for your update strategy. ReplicaSet uses updateStrategy instead of rolling-update, called as deployment.
 

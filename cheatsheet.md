@@ -73,12 +73,5 @@ $ minikube delete
 $ minikube status
 ```
 
-Add a sample application
-
-```
-Create a deployment
-$ kubectl run kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1 --port=8080
-```
-
 
 
