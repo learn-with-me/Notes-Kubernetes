@@ -1,5 +1,7 @@
 # Kubernetes
 
+> Note: This project has been archived because of other ongoing efforts. Check out the [org home page](https://github.com/learn-with-me) to get information related to kubernetes and other topics. Alternatively check out [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/) website for info related to kubernetes.
+
 Kubernetes was born at Google after learnings from their other systems Borg and Omega. Kubernetes can often be referred as `k8s` with 8 as the number of characters between the word.
 
 Just like an orchestra, Kubernetes cares about high-level stuff over starting/stopping containers. It cares about how many containers to run, which nodes to run them on, scheduling, scaling, healing, updating,...
