@@ -1,6 +1,6 @@
 # Kubernetes
 
-> Note: This project has been archived because of other ongoing efforts. Check out the [org home page](https://github.com/learn-with-me) to get information related to kubernetes and other topics. Alternatively check out [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/) website for info related to kubernetes.
+> :warning: Note: This project has been archived because of other ongoing efforts. Check out the [org home page](https://github.com/learn-with-me) to get information related to kubernetes and other topics. Alternatively check out [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/) website for info related to kubernetes.
 
 Kubernetes was born at Google after learnings from their other systems Borg and Omega. Kubernetes can often be referred as `k8s` with 8 as the number of characters between the word.
 
